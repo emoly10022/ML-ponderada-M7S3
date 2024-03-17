@@ -12,11 +12,11 @@ Refere-se a uma mudança de conceito em um intervalo de tempo, o que pode deteri
 
 Podem ser variadas e dependem fortemente do contexto específico em que os modelos de aprendizado de máquina são aplicados. Algumas incluem:
 
-Mudanças nos comportamentos dos usuários: novas tendências ou preferências podem alterar os padrões de consumo ou interação.
+- Mudanças nos comportamentos dos usuários: novas tendências ou preferências podem alterar os padrões de consumo ou interação.
 
-Alterações nas condições ambientais: mudanças climáticas que afetam os dados coletados em determinados contextos, como vendas de produtos em uma época específica.
+- Alterações nas condições ambientais: mudanças climáticas que afetam os dados coletados em determinados contextos, como vendas de produtos em uma época específica.
 
-Mudanças na legislação ou políticas: novas leis ou regulamentos podem alterar padrões de dados em setores como financeiro e de saúde.
+- Mudanças na legislação ou políticas: novas leis ou regulamentos podem alterar padrões de dados em setores como financeiro e de saúde.
 
 
 # Solução Proposta: 
@@ -26,17 +26,17 @@ Mudanças na legislação ou políticas: novas leis ou regulamentos podem altera
 
 A proposta de solução de implementação de aprendizado contínuo em um sistema conversacional foi baseada no nosso projeto de um chatbot baseado em IA.
 
-Coleta e análise de dados em tempo real: aqui teria a implementação de  sistemas para coletar continuamente dados de interação dos usuários, incluindo perguntas, respostas do sistema, feedback dos usuários e métricas de engajamento. Seriam utilizadas técnicas de processamento de linguagem natural e análise de sentimentos para entender as tendências, as preferrncias e problemas enfrentados pelos usuários.
+- Coleta e análise de dados em tempo real: aqui teria a implementação de  sistemas para coletar continuamente dados de interação dos usuários, incluindo perguntas, respostas do sistema, feedback dos usuários e métricas de engajamento. Seriam utilizadas técnicas de processamento de linguagem natural e análise de sentimentos para entender as tendências, as preferrncias e problemas enfrentados pelos usuários.
 
-Detecção de concept drift: aqui seriam utilizados algoritmos especializados em detectar concept drift nos dados de interação. Isso pode incluir mudanças nos tipos de perguntas, nas expectativas dos usuários ou até nas áreas de interesse. Também podemos estabelecer métricas de performance claras e monitorá-las para identificar possíveis quedas que podem indicar a necessidade de alguma atualização.
+- Detecção de concept drift: aqui seriam utilizados algoritmos especializados em detectar concept drift nos dados de interação. Isso pode incluir mudanças nos tipos de perguntas, nas expectativas dos usuários ou até nas áreas de interesse. Também podemos estabelecer métricas de performance claras e monitorá-las para identificar possíveis quedas que podem indicar a necessidade de alguma atualização.
 
-Atualização e adaptação de modelos: aqui seria desenvolvido um pipeline para o re-treinamento periódico do modelo com os dados mais recentes, garantindo que o sistema esteja sempre adaptado às últimas tendências e informações. Além de explorar o uso de modelos que suportam aprendizado incremental, capazes de se ajustar automaticamente às novas informações sem a necessidade de re-treinamento completo.
+- Atualização e adaptação de modelos: aqui seria desenvolvido um pipeline para o re-treinamento periódico do modelo com os dados mais recentes, garantindo que o sistema esteja sempre adaptado às últimas tendências e informações. Além de explorar o uso de modelos que suportam aprendizado incremental, capazes de se ajustar automaticamente às novas informações sem a necessidade de re-treinamento completo.
 
-Feedback dos usuários: também seriam integrados mecanismos que permitam aos usuários fornecer feedback direto sobre a utilidade e precisão das respostas do sistema. Este feedback, além de poder ser um indicador de concept drift e áreas que necessitam de melhorias, pode ser utilizado como uma fonte de dados para o aprendizado contínuo, ajudando a refinar e personalizar as respostas do sistema.
+- Feedback dos usuários: também seriam integrados mecanismos que permitam aos usuários fornecer feedback direto sobre a utilidade e precisão das respostas do sistema. Este feedback, além de poder ser um indicador de concept drift e áreas que necessitam de melhorias, pode ser utilizado como uma fonte de dados para o aprendizado contínuo, ajudando a refinar e personalizar as respostas do sistema.
 
-Integração com conhecimento externo: o sistema seria integrado a fontes externas de conhecimento e atualizações em tempo real para garantir que o conteúdo fornecido aos usuários esteja atualizado. Pode ser de grande ajuda estabelecer parcerias com plataformas de dados e provedores de conteúdo para enriquecer a base de conhecimento do sistema.
+- Integração com conhecimento externo: o sistema seria integrado a fontes externas de conhecimento e atualizações em tempo real para garantir que o conteúdo fornecido aos usuários esteja atualizado. Pode ser de grande ajuda estabelecer parcerias com plataformas de dados e provedores de conteúdo para enriquecer a base de conhecimento do sistema.
 
-Avaliação contínua e iterativa: por último, implementar ciclos regulares de avaliação e otimização, onde cada aspecto do sistema é revisado e ajustado conforme seja necessário. Além da realizaçãp de testes A/B para experimentar novas abordagens e características, para assegurar que as atualizações melhoram efetivamente a experiência do usuário.
+- Avaliação contínua e iterativa: por último, implementar ciclos regulares de avaliação e otimização, onde cada aspecto do sistema é revisado e ajustado conforme seja necessário. Além da realizaçãp de testes A/B para experimentar novas abordagens e características, para assegurar que as atualizações melhoram efetivamente a experiência do usuário.
 
 
 # Conclusão:
