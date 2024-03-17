@@ -41,7 +41,7 @@ Avaliação contínua e iterativa: por último, implementar ciclos regulares de 
 
 # Conclusão:
 
-Acredito que a implementação da solução seja viável considerando as condições de quem vai utilizá-la, por exemplo: se possui uma equipe de suporte e que acompanhem as boas práticas de computação para que o fluxo de trabalho seja mantido. O maior desafio é certamente a busca por dados atualizados, e a criação de modelos e algoritmos que busquem por esses dados para a automatização dos processos.
+Acredito que a implementação da solução seja viável considerando as condições de quem vai utilizá-la, por exemplo: se possui uma equipe de suporte e que acompanhe as boas práticas de computação para que o fluxo de trabalho seja mantido. O maior desafio é certamente a busca por dados atualizados, e a criação de modelos e algoritmos que busquem por esses dados para a automatização dos processos. Mesmo exijindo um esforço significativo,a longo prazo os benefícios incluem a capacidade do sistema de se adaptar as mudanças nas preferências dos usuários e tendências globais, trazendo um grande diferencial no mercado.
 
 
 # Referências Bibliográficas
